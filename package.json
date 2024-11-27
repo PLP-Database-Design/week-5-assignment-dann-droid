@@ -1,0 +1,19 @@
+{
+  "name": "week-5-assignment-dann-droid",
+  "version": "1.0.0",
+  "description": "This demonstrates the cconnection of MySQL database and Node.js to create a simple API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4",
+    "nodemon": "^3.1.7"
+  }
+}
